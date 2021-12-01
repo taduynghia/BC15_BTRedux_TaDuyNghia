@@ -1,0 +1,3 @@
+# Loại bỏ các file đưa git
+/node_modules
+
